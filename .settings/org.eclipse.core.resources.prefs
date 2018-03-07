@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/com/iwant/download2geodata/GeoGetDataThread.java=UTF-8
+encoding//src/com/iwant/download2geodata/HttpRequestUtil.java=UTF-8
+encoding//src/com/iwant/download2geodata/data/POI.java=UTF-8
+encoding//src/com/iwant/download2geodata/data/ShopInfo.java=UTF-8
+encoding//src/com/iwant/download2geodata/data/ShopList.java=UTF-8
+encoding//src/com/iwant/download2geodata/data/TemplateData.java=UTF-8
+encoding//src/com/iwant/excel/ExcelManage.java=UTF-8
+encoding//src/com/iwant/excel/User.java=UTF-8
+encoding//src/com/iwant/excel/WriteExcel.java=UTF-8
